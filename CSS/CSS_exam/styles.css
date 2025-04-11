@@ -1,0 +1,44 @@
+
+.main-header {
+  text-align:center;
+}
+
+.image-container {
+  position: relative;
+  width: 100%;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+}
+
+.top-navigation {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.top-navigation ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.top-navigation li {
+  margin-right: 10px;
+}
+
+.top-navigation a {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+}
+
+.gallery{
+  text-align: center;
+}
+
+
